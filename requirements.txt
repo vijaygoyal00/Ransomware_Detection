@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+imbalanced-learn
+flask
+watchdog
+gym
+numpy
+pandas
+matplotlib

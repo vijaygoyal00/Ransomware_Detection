@@ -1,0 +1,1 @@
+# Script to parse CIC-IDS2018 dataset
